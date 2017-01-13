@@ -2,4 +2,4 @@
 epic-repository
 Hello everyone!
 
-Ian here. THe Godfather is the greatest movie ever. Full Stop.
+Ian here. The Godfather is the greatest movie ever. Full Stop.
